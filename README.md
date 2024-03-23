@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Mactarvish
-- 👀 I’m good at C++ programming and zhuangbi
+- 👀 I’m good at C++ and zhuangbi
