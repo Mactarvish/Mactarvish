@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Mactarvish
 - 👀 I’m good at C++ and 装逼
