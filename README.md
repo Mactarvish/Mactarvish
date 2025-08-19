@@ -1,1 +1,1 @@
-- 👀 I’m good at C++ and 装逼
+- 👀 I’m good at 装逼
